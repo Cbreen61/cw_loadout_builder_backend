@@ -8,7 +8,7 @@ class CreateLoadouts < ActiveRecord::Migration[6.1]
       t.string :perk_1
       t.string :perk_2
       t.string :perk_3
-      t.string :ethal
+      t.string :lethal
       t.string :tactical
 
       t.timestamps
