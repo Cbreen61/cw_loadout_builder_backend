@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  name: MyString
+  attachment_1: MyString
+  attachment_2: MyString
+  attachment_3: MyString
+  attachment_4: MyString
+  attachment_5: MyString
+  image_url: MyString
+
+two:
+  type: 
+  name: MyString
+  attachment_1: MyString
+  attachment_2: MyString
+  attachment_3: MyString
+  attachment_4: MyString
+  attachment_5: MyString
+  image_url: MyString
