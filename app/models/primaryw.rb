@@ -1,0 +1,2 @@
+class Primaryw < ApplicationRecord
+end
