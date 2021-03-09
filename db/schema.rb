@@ -33,7 +33,7 @@ ActiveRecord::Schema.define(version: 2021_03_09_155000) do
   end
 
   create_table "primaryws", force: :cascade do |t|
-    t.string "type"
+    t.string "weapon_type"
     t.string "name"
     t.string "attachment_1"
     t.string "attachment_2"
@@ -46,7 +46,7 @@ ActiveRecord::Schema.define(version: 2021_03_09_155000) do
   end
 
   create_table "secondaryws", force: :cascade do |t|
-    t.string "type"
+    t.string "weapon_type"
     t.string "name"
     t.string "attachment_1"
     t.string "attachment_2"

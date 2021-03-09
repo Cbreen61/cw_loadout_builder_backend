@@ -1,7 +1,7 @@
 class CreatePrimaryws < ActiveRecord::Migration[6.1]
   def change
     create_table :primaryws do |t|
-      t.string :type
+      t.string :weapon_type
       t.string :name
       t.string :attachment_1
       t.string :attachment_2
